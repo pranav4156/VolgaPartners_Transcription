@@ -5,10 +5,8 @@ give it a recording (in almost any format), and it gives you back the words that
 were spoken, along with when each segment and each word was said. The results
 come out as JSON, and also as SRT and VTT subtitle files.
 
-It was built for the Volga Partners AI Engineer assessment. Part 1, the working
-pipeline, is implemented and tested. Part 2 is a system design write-up, which
-the brief asked for in writing rather than code, so it lives further down in
-this README.
+Part 1, the working pipeline, is implemented and tested. Part 2 is a system design write-up, which
+the brief asked for in writing rather than code, so it lives further down in this README.
 
 ---
 
